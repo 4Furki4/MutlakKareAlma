@@ -33,5 +33,12 @@ namespace MutlakDeger
             Sonuc.Add(buyukSayiFarklari);
             return Sonuc;
         }
+        public void SonuclariYazdir(List<double> list)
+        {
+            foreach (var item in list)
+            {
+                System.Console.WriteLine(item);
+            }
+        }
     }
 }
