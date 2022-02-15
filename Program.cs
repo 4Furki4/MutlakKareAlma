@@ -6,7 +6,10 @@ namespace MutlakDeger
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Konsol_Islemleri konsol= new Konsol_Islemleri();
+            Algoritma_Islemleri algoritma = new Algoritma_Islemleri();
+            konsol.IlkMesaj();
+            algoritma.SonuclariYazdir(algoritma.AlgoritmaKur(konsol.SayılarıAlma()));
         }
     }
 }

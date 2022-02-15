@@ -1,0 +1,16 @@
+C:\Users\Furkan Cengiz\Desktop\MutlakDeger\bin\Debug\net5.0\MutlakDeger.exe
+C:\Users\Furkan Cengiz\Desktop\MutlakDeger\bin\Debug\net5.0\MutlakDeger.deps.json
+C:\Users\Furkan Cengiz\Desktop\MutlakDeger\bin\Debug\net5.0\MutlakDeger.runtimeconfig.json
+C:\Users\Furkan Cengiz\Desktop\MutlakDeger\bin\Debug\net5.0\MutlakDeger.runtimeconfig.dev.json
+C:\Users\Furkan Cengiz\Desktop\MutlakDeger\bin\Debug\net5.0\MutlakDeger.dll
+C:\Users\Furkan Cengiz\Desktop\MutlakDeger\bin\Debug\net5.0\ref\MutlakDeger.dll
+C:\Users\Furkan Cengiz\Desktop\MutlakDeger\bin\Debug\net5.0\MutlakDeger.pdb
+C:\Users\Furkan Cengiz\Desktop\MutlakDeger\obj\Debug\net5.0\MutlakDeger.csproj.AssemblyReference.cache
+C:\Users\Furkan Cengiz\Desktop\MutlakDeger\obj\Debug\net5.0\MutlakDeger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Cengiz\Desktop\MutlakDeger\obj\Debug\net5.0\MutlakDeger.AssemblyInfoInputs.cache
+C:\Users\Furkan Cengiz\Desktop\MutlakDeger\obj\Debug\net5.0\MutlakDeger.AssemblyInfo.cs
+C:\Users\Furkan Cengiz\Desktop\MutlakDeger\obj\Debug\net5.0\MutlakDeger.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Cengiz\Desktop\MutlakDeger\obj\Debug\net5.0\MutlakDeger.dll
+C:\Users\Furkan Cengiz\Desktop\MutlakDeger\obj\Debug\net5.0\ref\MutlakDeger.dll
+C:\Users\Furkan Cengiz\Desktop\MutlakDeger\obj\Debug\net5.0\MutlakDeger.pdb
+C:\Users\Furkan Cengiz\Desktop\MutlakDeger\obj\Debug\net5.0\MutlakDeger.genruntimeconfig.cache

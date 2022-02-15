@@ -8,32 +8,25 @@ namespace MutlakDeger
         {
             double kucukSayiFarklari=0;
             double buyukSayiFarklari=0;
-            List<int> Kucukler= new List<int>();
-            List<int> Buyukler= new List<int>();
             List<Double> Sonuc= new List<double>();
-            foreach (var sayi in list)
+            foreach (var item in list)
             {
-                if (sayi<67)
+                if (item<67) //listeden gelen her sayının 67'den büyük olup olmamasına bakıyoruz ve küçükse
                 {
-                    Kucukler.Add(sayi);
-                }else
-                {
-                    Buyukler.Add(sayi);
+                    kucukSayiFarklari+=67-item; // bu işlemi,
                 }
+                else
+                {
+                    buyukSayiFarklari+=Math.Pow((Math.Abs(67-item)),2); // büyükse bu işlemi gerçekleştiriyoruz.
+                }
+                
             }
-            foreach (var item in Kucukler)
-            {
-                kucukSayiFarklari+=67-item;
-            }
-            foreach (var item in Buyukler)
-            {
-                buyukSayiFarklari=Math.Pow((Math.Abs(67-item)),2);
-            }
-            Sonuc.Add(kucukSayiFarklari);
+            
+            Sonuc.Add(kucukSayiFarklari); // elde edilen toplam sayılarını listeye ekledim.
             Sonuc.Add(buyukSayiFarklari);
-            return Sonuc;
+            return Sonuc; //Listeyi SonuclariYazdir metodunda kullanmak üzere döndürdüm.
         }
-        public void SonuclariYazdir(List<double> list)
+        public void SonuclariYazdir(List<double> list) //elde edilen değerleri parametre olarak aldım ve bunları foreach döngüsüyle ekrana yazdırdım.
         {
             foreach (var item in list)
             {
